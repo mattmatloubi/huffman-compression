@@ -1,6 +1,6 @@
 # huffman-compression
 
-this program takes in an input .txt file, constructs a huffman compression tree and visualises the huffman encoding for each character, as well as calculating the compression rate.
+this program takes in an input .txt file, constructs a huffman compression tree and outputs each character's huffman encoding, as well as calculating the compression rate
 
 see the example below, where the input is chapter 1 of K&R:\
 the long binary string is the encoding, followed by the length of the encoded string, followed by the frequency of the character\
