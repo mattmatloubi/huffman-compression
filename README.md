@@ -1,6 +1,6 @@
 # huffman-compression
 
-this program takes in an input .txt file, constructs a huffman compression tree and outputs each character's huffman encoding, as well as calculating the compression rate
+this program takes in an input .txt file, constructs a huffman compression tree and outputs each character's huffman encoding, as well as calculating the compression rate\
 compatible with both unix/dos line breaks
 
 see the example below, where the input is chapter 1 of K&R:\
